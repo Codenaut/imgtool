@@ -1,0 +1,10 @@
+height=0
+width=0
+
+[[image]]
+fileinput=0
+properties={
+    autotrim=true,
+    border=10}
+
+
